@@ -1,7 +1,10 @@
 @import "bootstrap-sprockets";
+@import "theme";
 @import "bootstrap";
+@import "rooms";
 
 h1 {
+  color: #303030;
   font-family: "Open Sans Condensed", sans-serif;
   font-size: 34px;
   margin-bottom: 20px;
