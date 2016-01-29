@@ -1,0 +1,15 @@
+es:
+  errors:
+    messages:
+      blank: "no puede estar en blanco"
+      invalid: "es inválido"
+
+  activerecord:
+    attributes:
+      room:
+        title: "Titulo"
+        description: "descripcion"
+        beds: "Cama"
+        guests: "Habitaciones"
+        image_url: "Imagen"
+              
